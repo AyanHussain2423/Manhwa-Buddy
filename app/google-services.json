@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "138752802477",
+    "project_id": "manwha-budyy",
+    "storage_bucket": "manwha-budyy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138752802477:android:b643ed7edb792c159b5024",
+        "android_client_info": {
+          "package_name": "com.example.manwhabudyy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAAJMNCxwNsHaaT6cPWLFbIW7JO1uTbjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
